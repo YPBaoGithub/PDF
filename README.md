@@ -27,3 +27,4 @@
 ---
 
 > **注意**：本人写此项目的目的纯为娱乐和分享，没有任何病毒程序 ~~这么小的APP应该也不可能有~~
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
